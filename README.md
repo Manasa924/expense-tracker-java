@@ -10,4 +10,4 @@ Simple Java console-based expense tracker application.
 ## Tech Stack
 - Java
 - ArrayList
-- OOP Conceptss
+- OOP Concepts
